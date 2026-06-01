@@ -266,6 +266,7 @@ Discover the invaluable resources contributed by our community to enhance your L
 
 | Repo | Description | Author / Links |
 |------|------|--------|
+| [**AVTR-1**](https://github.com/avaturn-live/avtr-1) | Real-time conversational talking-head model using dyadic audio conditioning and a LivePortrait-style portrait-warping renderer. | [@avaturn-live](https://github.com/avaturn-live) |
 | [**ditto-talkinghead**](https://github.com/antgroup/ditto-talkinghead) | Real-time audio-driven talking head. | [ArXiv](https://arxiv.org/abs/2411.19509), [Homepage](https://digital-avatar.github.io/ai/Ditto/)  |
 | [**FasterLivePortrait**](https://github.com/warmshao/FasterLivePortrait) | Faster real-time version using TensorRT. | [@warmshao](https://github.com/warmshao) |
 | [**AdvancedLivePortrait-WebUI**](https://github.com/jhj0517/AdvancedLivePortrait-WebUI) | Dedicated gradio based WebUI started from [ComfyUI-AdvancedLivePortrait](https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait). | [@jhj0517](https://github.com/jhj0517) |
